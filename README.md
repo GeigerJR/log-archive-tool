@@ -6,3 +6,5 @@ A simple bash script to compress logs from a specified directory and store them 
 
 ```bash
 ./log-archive.sh <log-directory>
+
+https://roadmap.sh/projects/log-archive-tool
